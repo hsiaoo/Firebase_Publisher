@@ -7,4 +7,5 @@ target 'Firebase1120' do
 
   # Pods for Firebase1120
   pod 'Firebase/Firestore'
+  pod 'Firebase/Database'
 end
